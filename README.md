@@ -1,3 +1,7 @@
 # DEMO
 
-First GIT Repository
+First GIT Repository!
+
+## Learn More
+
+save changes
